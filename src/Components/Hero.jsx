@@ -45,21 +45,21 @@ export default function Hero() {
               </p>
 
               {/* BUTTONS */}
-              <div className="flex flex-wrap gap-4 mt-8">
-
+              <div className="flex flex-row gap-3 mt-8 w-full">
                 <a
                   href="https://drive.google.com/uc?export=download&id=1B-nqQlkwiLKSNrDplIlBaFTY3fcBCuTk"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-7 py-3 rounded-xl bg-gradient-to-r from-sky-500 to-sky-500 text-white font-medium shadow-lg hover:scale-105 transition cursor-pointer"
+                  className="flex-1 text-center px-4 py-3 rounded-xl bg-sky-500 text-white font-medium shadow-lg hover:scale-105 transition cursor-pointer"
                 >
-                  Download Resume ↓
+                  Resume ↓
                 </a>
 
-                <button className="px-7 py-3 rounded-xl border border-slate-600 text-white hover:border-sky-700 transition coursor-pointer">
-                  Contact Me ✈
+                <button
+                  className="flex-1 px-4 py-3 rounded-xl border border-slate-600 text-white hover:border-sky-500 transition cursor-pointer"
+                >
+                  Contact ✈
                 </button>
-
               </div>
 
               {/* SOCIAL */}
