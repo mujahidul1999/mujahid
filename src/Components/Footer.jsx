@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6">
 
 
-        <h3 className="text-2xl font-bold text-cyan-400">
+        <h3 className="text-2xl font-bold text-white">
           Mujahidul Islam
         </h3>
 

@@ -106,7 +106,7 @@ Message: ${formData.message}`;
                 href="https://wa.me/918470903057"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-transparent p-3 rounded-lg text-white hover:bg-sky-700 transition"
+                className="bg-slate-800 p-3 rounded-lg text-white hover:bg-cyan-500 transition"
               >
                 <FaWhatsapp size={22} />
               </a>
