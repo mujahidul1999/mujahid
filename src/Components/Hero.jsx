@@ -18,7 +18,7 @@ export default function Hero() {
       id="home"
       className="min-h-screen bg-[#07172A] flex items-center pt-24"
     >
-      <div className="max-w-7xl mx-auto px-6 w-full">
+      <div className="max-w-7xl mx-auto px-2 w-full ">
         <div className="bg-[#0F172A]/80 backdrop-blur-md overflow-hidden">
 
           <div className="grid lg:grid-cols-2 gap-10 items-center p-8 lg:p-12">
