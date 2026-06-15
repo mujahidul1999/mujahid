@@ -13,7 +13,6 @@ const About = () => {
     <section id="about" className="bg-[#07172A] py-16">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-10 items-center">
-
           {/* Image */}
           <div className="order-2 lg:order-1">
             <div className="overflow-hidden rounded-2xl border border-slate-700 shadow-lg">
