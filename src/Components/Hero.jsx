@@ -10,7 +10,7 @@ import {
 import { FaXTwitter } from "react-icons/fa6";
 
 import { SiRedux } from "react-icons/si";
-import HeroImg from "../assets/Hero.jpeg";
+import HeroImg from "../assets/hero.jpeg";
 
 export default function Hero() {
   return (
